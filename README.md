@@ -1,4 +1,4 @@
-# Spam Mail Prediction
+# Spam Mail Prediction using Machine Learning with Python
 
 ## Overview
 
@@ -38,11 +38,6 @@ Then, install the dependencies using:
 pip install -r requirements.txt
 
 
-
-
-
-
-------------------------
 
 
 
